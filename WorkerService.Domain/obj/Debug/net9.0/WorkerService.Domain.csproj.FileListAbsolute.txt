@@ -1,0 +1,11 @@
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\bin\Debug\net9.0\WorkerService.Domain.deps.json
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\bin\Debug\net9.0\WorkerService.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\bin\Debug\net9.0\WorkerService.Domain.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.AssemblyInfoInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.AssemblyInfo.cs
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.csproj.CoreCompileInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\refint\WorkerService.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\WorkerService.Domain.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Domain\obj\Debug\net9.0\ref\WorkerService.Domain.dll

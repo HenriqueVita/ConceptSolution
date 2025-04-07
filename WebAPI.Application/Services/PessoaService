@@ -1,0 +1,36 @@
+namespace WebAPI.Application;
+
+public class PessoaService
+{
+    private readonly IProductRepository _productRepository;
+
+    public ProductService(IProductRepository productRepository)
+    {
+        _productRepository = productRepository;
+    }
+
+    public async Task<IEnumerable<Pessoa>> ConsultarPessoaAsync(Pessoa pessoa)
+    {
+        return await _pessoaRepository.GetByIdAsync(pessoa.getId());
+    }
+
+    public async Task<IEnumerable<Pessoa>> GetPessoaAsync()
+    {
+        return await _pessoaRepository.GetAllAsync();
+    }
+
+    public async Task<IEnumerable<Pessoa>> InserirPessoaAsync()
+    {
+        return await _pessoaRepository.GetAllAsync();
+    }
+
+    public async AtualizarPessoaAsync(Pessoa Pessoa)
+    {
+        _pessoaRepository.UpdateAsync(Pessoa);
+    }
+
+    public async DeletarPessoaAsync(Pessoa Pessoa)
+    {
+        _pessoaRepository.DeleteAsync(Pessoa.id);
+    }
+}

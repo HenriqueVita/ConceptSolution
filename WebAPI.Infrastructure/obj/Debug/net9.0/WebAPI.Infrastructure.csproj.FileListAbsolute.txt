@@ -1,0 +1,17 @@
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Infrastructure.deps.json
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Infrastructure.runtimeconfig.json
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Infrastructure.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\bin\Debug\net9.0\WebAPI.Domain.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.AssemblyInfo.cs
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.I.7448B489.Up2Date
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\refint\WebAPI.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.pdb
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\WebAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Infrastructure\obj\Debug\net9.0\ref\WebAPI.Infrastructure.dll

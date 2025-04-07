@@ -1,0 +1,36 @@
+namespace WebAPI.Application;
+
+public class PedidoService
+{
+    private readonly IPedidoRepository _pedidoRepository;
+
+    public PedidoService(IPedidoRepository pedidoRepository)
+    {
+        _pedidoRepository = pedidoRepository;
+    }
+
+    public async Task<Pedido> ConsultarPedidoAsync(Int id)
+    {
+        return await _pedidoRepository.GetByIdAsync(id);
+    }
+
+    public async Task<IEnumerable<Pedido>> GetPedidosAsync()
+    {
+        return await _pedidoRepository.GetAllAsync();
+    }
+
+    public async Task InserirPedidoAsync(Pedido pedido)
+    {
+        return await _pedidoRepository.AddAsync(pedido);
+    }
+
+    public async Task AtualizarPedidoAsync(Pedido pedido)
+    {
+        _pedidoRepository.UpdateAsync(pedido);
+    }
+
+    public async Task CancelarPedidoAsync(Pedido pedido)
+    {
+        _pedidoRepository.DeleteAsync(pedido.id);
+    }
+}

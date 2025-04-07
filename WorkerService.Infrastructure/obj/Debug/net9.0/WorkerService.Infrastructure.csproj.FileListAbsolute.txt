@@ -1,0 +1,17 @@
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.AssemblyInfo.cs
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Infrastructure.deps.json
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Infrastructure.runtimeconfig.json
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Infrastructure.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\bin\Debug\net9.0\WorkerService.Domain.pdb
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerSe.7B7A7AAC.Up2Date
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\refint\WorkerService.Infrastructure.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.pdb
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\WorkerService.Infrastructure.genruntimeconfig.cache
+C:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WorkerService.Infrastructure\obj\Debug\net9.0\ref\WorkerService.Infrastructure.dll

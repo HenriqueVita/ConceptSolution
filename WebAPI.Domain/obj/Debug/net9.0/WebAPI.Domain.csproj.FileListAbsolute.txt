@@ -1,0 +1,11 @@
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\bin\Debug\net9.0\WebAPI.Domain.deps.json
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\bin\Debug\net9.0\WebAPI.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\bin\Debug\net9.0\WebAPI.Domain.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.AssemblyInfoInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.AssemblyInfo.cs
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.csproj.CoreCompileInputs.cache
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\refint\WebAPI.Domain.dll
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\WebAPI.Domain.pdb
+c:\Users\hvita\Projetos\VisualCodeProjects\C# Projects\DDD\ConceptSolution\WebAPI.Domain\obj\Debug\net9.0\ref\WebAPI.Domain.dll

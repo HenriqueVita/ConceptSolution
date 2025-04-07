@@ -1,0 +1,36 @@
+namespace WebAPI.Application;
+
+public class ProdutoService
+{
+    private readonly IProductRepository _productRepository;
+
+    public ProductService(IProductRepository productRepository)
+    {
+        _productRepository = productRepository;
+    }
+
+    public async Task<Pessoa> ConsultarProdutoAsync(Int id)
+    {
+        return await _productRepository.GetByIdAsync(id);
+    }
+
+    public async Task<IEnumerable<Pessoa>> GetProdutosAsync()
+    {
+        return await _productRepository.GetAllAsync();
+    }
+
+    public async Task InserirProdutoAsync(Produto produto)
+    {
+        return await _productRepository.AddAsync(produto);
+    }
+
+    public async Task AtualizarPessoaAsync(Produto produto)
+    {
+        _productRepository.UpdateAsync(produto);
+    }
+
+    public async Task DeletarPessoaAsync(Produto produto)
+    {
+        _pessoaRepository.DeleteAsync(produto.id);
+    }
+}
